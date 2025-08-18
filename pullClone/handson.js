@@ -1,0 +1,1 @@
+const handson = "practicing Git after cloning"
