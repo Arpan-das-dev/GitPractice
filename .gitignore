@@ -1,0 +1,6 @@
+# 1 ignore all logs file
+* .log
+# 2 ignore a folder with it's name
+temporary/
+# 3 ignore text files with their extensions .txt
+secret.txt
